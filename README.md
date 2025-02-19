@@ -32,15 +32,14 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sajjad8823&theme=dark&hide_border=false" alt="sajjad8823" /></p>
 
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=rehmatcodes&theme=dark&no-frame=false&no-bg=true&margin-w=4)
-)
+## ## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=sajjad8823&theme=dark&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=rehmatcodes&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=sajjad8823&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
 
