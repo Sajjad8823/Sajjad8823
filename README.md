@@ -1,9 +1,9 @@
 # 💫 About Me:
 
-👨‍💻 Front End Develpor  | 💻 Software Engineering Student (Fouth Semester)<br><br>🔧 Experience: 3 months at Codealpha Technologies as a Front end Developer<br><br>🚀 Seeking Collaboration: Open to collaborating on exciting tech projects<br><br>🎓 Currently Learning: Entrepreneurship & Node js <br><br>💡 Ask Me Anything: Always ready to share knowledge and insights about tech    add a coding type image on the right of the about me 
+👨‍💻 Web Developer  | 💻 Software Engineer <br><br>🔧 Experience: 2 years at Codealpha Technologies as a Front end Developer<br><br>🚀 Seeking Collaboration: Open to collaborating on exciting tech projects<br><br>🎓 Currently Learning: js <br><br>💡 Ask Me Anything: Always ready to share knowledge and insights about tech    add a coding type image on the right of the about me 
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://app.slack.com/client/T07P45JTM24) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61550099472882&mibextid=ZbWKwL) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/profile.php?id=61550099472882&mibextid=ZbWKwL) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](linkedin.com/in/rehmatcodes) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/channels/1341855778814034053/1341855779740848211) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100077519214597)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sajjad-hussain-a77812278/) 
 
 # 💻 Tech Stack:
 ## 🚀 Tech Stack  
@@ -23,11 +23,13 @@
 # 📊 GitHub Stats:
 
 # 📊 GitHub Stats:
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rehmatcodemaster&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="rehmatcodemaster" /></p>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajjad8823&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="sajjad8823" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rehmatcodemaster&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="rehmatcodemaster" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sajjad8823&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="sajjad8823" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rehmatcodemaster&theme=dark&hide_border=false" alt="rehmatcodemaster" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sajjad8823&theme=dark&hide_border=false" alt="sajjad8823" /></p>
 
 
 ## 🏆 GitHub Trophies
