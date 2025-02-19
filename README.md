@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-👨‍💻 Web Developer  | 💻 Software Engineer <br><br>🔧 Experience: 2 years at Codealpha Technologies as a Front end Developer<br><br>🚀 Seeking Collaboration: Open to collaborating on exciting tech projects<br><br>🎓 Currently Learning: js <br><br>💡 Ask Me Anything: Always ready to share knowledge and insights about tech    add a coding type image on the right of the about me 
+👨‍💻 Web Developer  | 💻 Software Engineer <br><br>🔧 Experience: 2 years at Codealpha Technologies as a  Web Developer<br><br>🚀 Seeking Collaboration: Open to collaborating on exciting tech projects<br><br>🎓 Currently Learning: js <br><br>💡 Ask Me Anything: Always ready to share knowledge and insights about tech    add a coding type image on the right of the about me 
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/channels/1341855778814034053/1341855779740848211) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100077519214597)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sajjad-hussain-a77812278/) 
