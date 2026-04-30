@@ -1,9 +1,9 @@
 <!-- HEADER -->
 <h1 align="center">Hi 👋, I'm Sajjad Hussain</h1>
-<h3 align="center">🚀 Software Engineer | Web Developer | AI Solutions Builder</h3>
+<h3 align="center">🚀 Software Engineer | Web Developer |Data Analyst| Data Scraper | Deep Learning Engineer| AI Solutions Builder</h3>
 
 <p align="center">
-  Building scalable systems, automation tools, and modern web applications.
+  Building scalable systems, automation tools and modern web applications.
 </p>
 
 ---
@@ -24,14 +24,16 @@
 
 🔥 **What I Bring:**
 - Clean, scalable, production-ready code  
-- Strong UI/UX understanding  
+- Strong UI/UX understanding
+- Model Training
+- Computer Vision 
 - API integrations & automation systems  
 - Performance-optimized web apps  
 
 </td>
 
 <td width="45%">
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="100%" />
+<img src="https://scrapixai.com/images/team/sajjad.jpg" width="100%" />
 </td>
 </tr>
 </table>
