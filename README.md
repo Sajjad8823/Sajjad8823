@@ -16,7 +16,7 @@
 ## 💫 About Me
 
 👨‍💻 **Software Engineer & Web Developer** with real-world project experience  
-🏢 **2+ Years Experience** at Codealpha Technologies  
+🏢 **2+ Years Experience** at Codes Apex Software House
 🚀 Specialized in **AI Solutions, Automation & Full-Stack Development**  
 🤝 Open to **international collaborations & client-based projects**  
 📚 Currently mastering **Advanced JavaScript & System Design**  
@@ -117,8 +117,8 @@
 
 ## ✨ Professional Statement
 
-I focus on delivering **high-quality, scalable, and business-oriented solutions**.  
-My goal is not just writing code — but building systems that **solve real-world problems, automate workflows, and generate value for clients**.
+I focus on delivering **high-quality, scalable and business-oriented solutions**.  
+My goal is not just writing code — but building systems that **solve real-world problems, automate workflows and generate value for clients**.
 
 ---
 
