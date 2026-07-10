@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <h1 align="center">Hi 👋, I'm Sajjad Hussain</h1>
-<h3 align="center">🚀 Software Engineer | Full-Stack Developer | Deep Learning Engineer | AI Solutions Architect</h3>
+<h3 align="center">🚀 Software Engineer | Data Engineer Specialist | Deep Learning Engineer | AI Solutions Architect</h3>
 
 <p align="center">
   Building intelligent systems, scalable web apps and automation solutions powered by AI.
