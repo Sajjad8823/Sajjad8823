@@ -170,26 +170,90 @@ From **data pipelines to deployed models**, I create solutions that are efficien
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=sajjad8823&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-My Projects
-📦 Amazon.ca Scraper
-PythonWeb Scraping
+My Projects & Work
+🤖 Web Scraping & Automation
+🧠 Deep Learning & AI
+📦 Amazon.ca Scraper Bot
+PythonScraping
 
-Powerful web scraper for Amazon.ca  extracts product data including prices, ratings & reviews.
+Advanced scraper for Amazon.ca — extracts product titles, prices, ratings, reviews & availability in real-time.
 
-Features:
+# Highlights✓ Real-time price tracking✓ Smart pagination handler✓ Export to CSV / JSON / DB✓ Proxy rotation support
 
-⚡ Fast data extraction
-📊 CSV/JSON output
-🔄 Auto pagination
-🤖 Triovetura Automation Bot
-PythonSeleniumLead Gen
+🛒 Bol.com Scraping Bot
+PythonScraping
 
-Intelligent automation bot for lead generation and data management system.
+High-performance bot for Bol.com  bulk product data extraction with category-wise crawling.
 
-Features:
+# Highlights✓ Category-based deep crawl✓ Product image download✓ Structured data pipeline✓ Anti-detection bypass
 
-🎯 Automated lead collection
-📁 Data management system
-🔄 Real-time processing
-🌐 Scrapixai
-JavaScriptHTML5CSS3
+📸 Instagram Scraping Bot
+PythonInstagram
+
+Intelligent Instagram data extractor — profiles, posts, followers, hashtags & engagement metrics.
+
+# Highlights✓ Profile data extraction✓ Post & reel scraping✓ Follower/Following analysis✓ Hashtag trend tracking
+
+🌐 Triveturia.com Bot
+PythonAutomation
+
+Custom automation bot for Triveturia.com — automated data collection and workflow processing.
+
+# Highlights✓ Automated form filling✓ Data capture & logging✓ Scheduled execution✓ Error handling & retry
+🌿 Plant Disease Detection
+PythonTensorFlowCNN
+
+CNN-based model detecting plant diseases from leaf images with high accuracy for agricultural use.
+
+# Model Stats✓ Accuracy: 95%+✓ 38+ disease classes✓ Real-time prediction✓ Mobile deployable
+
+🧠 Brain Tumor Detection
+PythonKerasCNN
+
+Deep learning model for brain tumor classification from MRI scans — aiding early medical diagnosis.
+
+# Model Stats✓ Accuracy: 97%+✓ 4 tumor types classified✓ MRI scan analysis✓ Grad-CAM visualization
+
+🚁 Military vs Civilian Vehicle Detection
+PythonOpenCVCNN
+
+CNN model classifying military and civilian vehicles from aerial/satellite imagery for defense applications.
+
+# Model Stats✓ Accuracy: 93%+✓ 10+ vehicle categories✓ Aerial image support✓ Boundary box detection
+
+🍎 Fruits Classification
+PythonCNN
+
+Image classification model identifying 100+ fruit types with freshness detection capability.
+
+# Model Stats✓ Accuracy: 96%+✓ 100+ fruit classes✓ Freshness detection✓ Lightweight model
+
+🐾 Animal Classification
+PythonCNN
+
+Multi-class animal recognition model using CNN for wildlife monitoring and research applications.
+
+# Model Stats✓ Accuracy: 94%+✓ 50+ animal species✓ Wildlife monitoring✓ Camera trap analysis
+
+🖼️ Image Classification Engine
+PythonPyTorchCNN
+
+General-purpose image classification engine — transfer learning based, customizable for any domain.
+
+# Model Stats✓ Custom dataset support✓ Transfer learning (ResNet, VGG)✓ Easy fine-tuning API✓ Batch prediction pipeline
+📊 Data Engineering for Clients
+PythonPandasSQLETL
+
+Custom data engineering solutions for clients — from raw data to actionable insights.
+
+Service	Description
+🔄 ETL Pipelines	Extract, Transform, Load workflows for structured & unstructured data
+🧹 Data Cleaning	Remove duplicates, handle missing values, normalize formats
+📈 Data Analysis	Statistical analysis, trend detection, pattern mining
+🗄️ Database Design	Schema design, optimization, migration support
+📊 Reporting	Automated dashboards, scheduled reports, visual analytics
+⚙️ Automation	Data collection bots, scheduled pipelines, API integrations
+
+ view my Tech Stack
+
+🔒 All source code is private. Open for collaborations — reach out to me!
