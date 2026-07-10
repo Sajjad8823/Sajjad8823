@@ -173,7 +173,10 @@ From **data pipelines to deployed models**, I create solutions that are efficien
 My Projects & Work
 
 🤖 Web Scraping & Automation
+
 🧠 Deep Learning & AI
+
+
 📦 Amazon.ca Scraper Bot
 PythonScraping
 
