@@ -169,3 +169,27 @@ From **data pipelines to deployed models**, I create solutions that are efficien
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=sajjad8823&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+My Projects
+📦 Amazon.ca Scraper
+PythonWeb Scraping
+
+Powerful web scraper for Amazon.ca  extracts product data including prices, ratings & reviews.
+
+Features:
+
+⚡ Fast data extraction
+📊 CSV/JSON output
+🔄 Auto pagination
+🤖 Triovetura Automation Bot
+PythonSeleniumLead Gen
+
+Intelligent automation bot for lead generation and data management system.
+
+Features:
+
+🎯 Automated lead collection
+📁 Data management system
+🔄 Real-time processing
+🌐 Scrapixai
+JavaScriptHTML5CSS3
