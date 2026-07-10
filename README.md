@@ -171,6 +171,7 @@ From **data pipelines to deployed models**, I create solutions that are efficien
 ![](https://github-contributor-stats.vercel.app/api?username=sajjad8823&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 My Projects & Work
+
 🤖 Web Scraping & Automation
 🧠 Deep Learning & AI
 📦 Amazon.ca Scraper Bot
