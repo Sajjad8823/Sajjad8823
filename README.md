@@ -38,6 +38,9 @@
 </tr>
 </table>
 
+My Portfolio  
+<a href="https://sajjad-hussain.netlify.app/">
+
 ---
 
 ## 🏢 About My Company — ScrapixAI
@@ -61,6 +64,7 @@
 ## 🌐 Connect With Me
 
 <p align="left">
+<a href="https://sajjad-hussain.netlify.app/">  
 <a href="https://www.instagram.com/scrapixai/">
 <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white"/>
 </a>
